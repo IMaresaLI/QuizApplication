@@ -1,0 +1,165 @@
+/* Coding by Maresal Programming */
+
+#HeadFrame{background-color:rgb(14, 14, 14);}
+#HomeFrame{background-color: rgb(36, 36, 36);}
+#MenuFrame{background-color: #A11F13;}
+
+#HomeBtn{
+        background-color: rgb(161, 31, 19);
+        border:none;
+        font: 10pt "Century Gothic";
+        color:white;}
+#HomeBtn:hover{background-color:#AD2215;}
+#HomeBtn:pressed{background-color: #BF2517;}
+
+#QuizBtn{
+    background-color: rgb(161, 31, 19);
+    border:none;
+    font: 10pt "Century Gothic";
+    color:white;}
+#QuizBtn:hover{background-color:#AD2215;}
+#QuizBtn:pressed{background-color: #BF2517;}
+
+#QuizAddBtn{
+    background-color: rgb(161, 31, 19);
+    border:none;
+    font: 10pt "Century Gothic";
+    color:white;}
+#QuizAddBtn:hover{background-color:#AD2215;}
+#QuizAddBtn:pressed{background-color: #BF2517;}
+
+#LoginBtn{
+    background-color: rgb(161, 31, 19);
+    border:none;
+    font: 10pt "Century Gothic";
+    color:white;}
+#LoginBtn:hover{background-color:#AD2215;}
+#LoginBtn:pressed{background-color: #BF2517;}
+
+#RegisterBtn{
+    background-color: rgb(161, 31, 19);
+    border:none;
+    font: 10pt \"Century Gothic\";
+    color:white;}
+#RegisterBtn:hover{background-color:#AD2215;}
+#RegisterBtn:pressed{background-color: #BF2517;}
+
+#ProfilBtn{
+    background-color: rgb(161, 31, 19);
+    border:none;
+    font: 10pt \"Century Gothic\";
+    color:white;}
+#ProfilBtn:hover{background-color:#AD2215;}
+#ProfilBtn:pressed{background-color: #BF2517;}
+
+#LogOutBtn{
+    background-color: rgb(161, 31, 19);
+    border:none;
+    font: 10pt \"Century Gothic\";
+    color:white;}
+#LogOutBtn:hover{background-color:#AD2215;}
+#LogOutBtn:pressed{background-color: #BF2517;}
+
+#SettingBtn{
+        background-color: rgb(161, 31, 19);
+        border:none;
+        font: 10pt \"Century Gothic\";
+        color:white;}
+#SettingBtn:hover{background-color:#AD2215;}
+#SettingBtn:pressed{background-color: #BF2517;}
+
+#QuestPlt{
+    border:none;
+    background-color: transparent;
+    font: 75 12pt \"Century Gothic\";
+    color:white;
+    }
+
+#groupBox{
+    border:none;
+    }
+QRadioButton {
+    color: white;
+    font: 10pt "Century Gothic";
+    }
+    
+QRadioButton::indicator {
+    width:10px;
+    height:10px;
+    border-radius:2px;
+    }
+    
+QRadioButton::indicator:checked {
+    background-color: black;
+    border:2px solid white;
+    }
+    
+QRadioButton::indicator:unchecked {
+    background-color: white;
+    border:2px solid white;
+    }
+
+#AnswerBtn{
+    background-color: rgb(36, 36, 36);;
+    border:none;
+    font: 10pt "Century Gothic";
+    color:white;}
+#AnswerBtn:hover{color:lightgreen;}
+#AnswerBtn:pressed{color:#1347C2; border: none;}
+
+#NullBtn{
+    background-color: rgb(36, 36, 36);;
+    border:none;
+    font: 10pt "Century Gothic";
+    color:white;}
+#NullBtn:hover{color:lightgreen;}
+#NullBtn:pressed{color:#1347C2;}
+
+#UsernameLbl{
+    font: 10pt "Century Gothic";
+    color:white;}
+
+#PuanLbl{
+        font: 10pt "Century Gothic";
+        color:white;}
+
+QMessageBox QLabel{
+    color:black;
+    font: 10pt "Century Gothic";
+    }
+
+#InstagramBtn{
+        background-color: transparent;
+        border:0px;
+        image: url("icons/instagram.png");
+    }
+    
+#FacebookBtn{
+        background-color: transparent;
+        border:0px;
+        image: url("icons/Facebook.png");
+    }
+    
+#GithubBtn{
+        background-color: transparent;
+        border:0px;
+        image: url("icons/Github.png");
+    }
+    
+#InstagramBtn:hover{
+        image: url("icons/instagramhover.png");
+    }
+    
+#GithubBtn:hover{
+        image: url("icons/GithubHover.png");
+    }
+    
+#FacebookBtn:hover{
+        image: url("icons/FacebookHover.png");
+    }
+
+#LogoLbl{image:url("icons/logo.png");}
+
+#brosurLbl{image:url("icons/aa.png");}
+
+#IconLbl{image:url("icons/marelogo.ico")}
